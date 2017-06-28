@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/java"/>
+	<classpathentry kind="src" path="test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="lib/Slick/slick.jar" sourcepath="lib/Slick/slick-sources.jar"/>
+	<classpathentry kind="lib" path="lib/LWJGL/lwjgl.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="Fred/lib/native/windows"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="test/lib/easymock-2.5.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/Fred/test/lib/easymock-2.5.2-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="test/lib/easymockclassextension-2.5.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/Fred/test/lib/easymockclassextension-2.5.2-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="test/lib/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="test/lib/asm-3.2.jar"/>
+	<classpathentry kind="lib" path="test/lib/objenesis-1.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/Fred/test/lib/objenesis-1.2-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jogg-0.0.7.jar"/>
+	<classpathentry kind="lib" path="lib/jorbis-0.0.15.jar"/>
+	<classpathentry kind="lib" path="lib/jinput.jar"/>
+	<classpathentry kind="lib" path="lib/jnlp.jar"/>
+	<classpathentry kind="lib" path="lib/slick-util.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

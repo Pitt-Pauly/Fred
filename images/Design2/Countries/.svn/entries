@@ -1,0 +1,80 @@
+9
+
+dir
+248
+https://svn.kenai.com/svn/fred~svc/trunk/images/Design2/Countries
+https://svn.kenai.com/svn/fred~svc
+
+
+
+2010-06-13T21:21:18.755115Z
+240
+dstewart
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9ec96df9-574a-c157-a1c6-acd3367ae7cc
+
+Europe
+dir
+
+map.png
+file
+
+
+
+
+2010-06-14T14:12:06.156938Z
+59390e827bae305876a96fe754d45455
+2010-06-13T21:21:18.755115Z
+240
+dstewart
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+215199
+
+S_America
+dir
+
+Africa
+dir
+
+Australia
+dir
+
+Asia
+dir
+
+N_America
+dir
+

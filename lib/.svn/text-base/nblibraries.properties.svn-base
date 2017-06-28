@@ -1,0 +1,39 @@
+libs.junit_4.classpath=\
+    ${base}/junit_4/junit-4.5.jar
+libs.junit_4.javadoc=\
+    ${base}/junit_4/junit-4.5-api.zip
+libs.junit_4.src=\
+    ${base}/junit_4/junit-4.5-src.jar
+libs.CopyLibs.classpath=\
+    ${base}/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar
+libs.LWJGL.classpath=\
+    ${base}/LWJGL/jinput.jar;\
+    ${base}/LWJGL/lwjgl-debug.jar;\
+    ${base}/LWJGL/lwjgl.jar;\
+    ${base}/LWJGL/lwjgl_test.jar;\
+    ${base}/LWJGL/lwjgl_util.jar;\
+    ${base}/LWJGL/lwjgl_util_applet.jar
+libs.Slick.classpath=\
+    ${base}/Slick/hiero.jar;\
+    ${base}/Slick/ibxm.jar;\
+    ${base}/Slick/jinput.jar;\
+    ${base}/Slick/jnlp.jar;\
+    ${base}/Slick/jogg-0.0.7.jar;\
+    ${base}/Slick/jorbis-0.0.15.jar;\
+    ${base}/Slick/lwjgl.jar;\
+    ${base}/Slick/natives-linux.jar;\
+    ${base}/Slick/natives-mac.jar;\
+    ${base}/Slick/natives-win32.jar;\
+    ${base}/Slick/packulike.jar;\
+    ${base}/Slick/pedigree.jar;\
+    ${base}/Slick/scalar.jar;\
+    ${base}/Slick/slick-examples.jar;\
+    ${base}/Slick/slick-sources.jar;\
+    ${base}/Slick/slick-util-src.zip;\
+    ${base}/Slick/slick-util.jar;\
+    ${base}/Slick/slick.jar;\
+    ${base}/Slick/tinylinepp.jar
+libs.Slick.javadoc=\
+    ${base}/javadoc/
+libs.LWJGL.javadoc=\
+    ${base}/../javadoc/

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/fred~svc/!svn/ver/228/trunk/src/java/fred/datahandling
+END
+PackedGame.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/fred~svc/!svn/ver/104/trunk/src/java/fred/datahandling/PackedGame.java
+END
+MapLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/fred~svc/!svn/ver/227/trunk/src/java/fred/datahandling/MapLoader.java
+END
+SaveLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/fred~svc/!svn/ver/228/trunk/src/java/fred/datahandling/SaveLoader.java
+END

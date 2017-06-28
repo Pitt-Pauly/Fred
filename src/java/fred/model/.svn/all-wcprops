@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/fred~svc/!svn/ver/248/trunk/src/java/fred/model
+END
+AdvancedGame.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/fred~svc/!svn/ver/245/trunk/src/java/fred/model/AdvancedGame.java
+END
+CardDeck.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/fred~svc/!svn/ver/163/trunk/src/java/fred/model/CardDeck.java
+END
+Die.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/fred~svc/!svn/ver/97/trunk/src/java/fred/model/Die.java
+END
+Territory.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/fred~svc/!svn/ver/168/trunk/src/java/fred/model/Territory.java
+END
+BasicTerritory.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/fred~svc/!svn/ver/220/trunk/src/java/fred/model/BasicTerritory.java
+END
+AttackRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/fred~svc/!svn/ver/245/trunk/src/java/fred/model/AttackRecord.java
+END
+TurnPhase.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/fred~svc/!svn/ver/96/trunk/src/java/fred/model/TurnPhase.java
+END
+Card.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/fred~svc/!svn/ver/98/trunk/src/java/fred/model/Card.java
+END
+Game.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/fred~svc/!svn/ver/248/trunk/src/java/fred/model/Game.java
+END
+AdvancedGameDoer.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/fred~svc/!svn/ver/245/trunk/src/java/fred/model/AdvancedGameDoer.java
+END
+BasicGame.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/fred~svc/!svn/ver/220/trunk/src/java/fred/model/BasicGame.java
+END
+CardType.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/fred~svc/!svn/ver/146/trunk/src/java/fred/model/CardType.java
+END
+Battlefield.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/fred~svc/!svn/ver/248/trunk/src/java/fred/model/Battlefield.java
+END
+TerritoryGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/fred~svc/!svn/ver/98/trunk/src/java/fred/model/TerritoryGroup.java
+END
+AdvancedPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/fred~svc/!svn/ver/220/trunk/src/java/fred/model/AdvancedPlayer.java
+END
+GameDoer.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/fred~svc/!svn/ver/248/trunk/src/java/fred/model/GameDoer.java
+END
+GameInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/fred~svc/!svn/ver/245/trunk/src/java/fred/model/GameInfo.java
+END
+World.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/fred~svc/!svn/ver/125/trunk/src/java/fred/model/World.java
+END
+AdvancedTerritory.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/fred~svc/!svn/ver/245/trunk/src/java/fred/model/AdvancedTerritory.java
+END
+Player.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/fred~svc/!svn/ver/168/trunk/src/java/fred/model/Player.java
+END
+BasicPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/fred~svc/!svn/ver/220/trunk/src/java/fred/model/BasicPlayer.java
+END

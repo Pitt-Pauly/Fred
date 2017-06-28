@@ -1,0 +1,36 @@
+To do:
+======
+
+- Audio is a bit choppy and would need some tuning at some point.
+
+- Scaling is halfway implemented. So I am not sure how it will behave on resizes
+  or different resolutions.
+
+- Although there is a problem when a territory is selected and the bit of the 
+  button that overlaps with the map is pressed -> deselects the territory.
+
+- The replay function is not implemented yet, since there are no buttons and 
+  the pop up window need to be modified. (This works doesn't it?)
+
+- Portrait/Player colour needs to be implemented in the main game screen. Player colour chooser need a border to match UI theme.
+
+- The whole attack record is still missing and needs to be done (with the dice 
+  animations). Attacking is generally broken in UI.
+
+- the FRED intro fade in doesn't work if the game window loses focus
+
+- add an application icon (what is meant?)
+
+- the red outline of selected countries seems to be partially implemented. Do we want this ?
+
+- the attack once and attack all icons don't seem to have an effect.
+
+- can we clean up the images folders - bin all the unused images. (Isn't this done?)
+
+- Hotkeys for various things (such as pressing enter to accept a unit attack amount/move amount/put on territory amount).
+
+- Popup that comes when selecting a territory should not just be a grey box, but fit in the theme. 
+
+- Multisource-attacking in GUI doesn't work (generally attacking is broken).
+
+- territory grey circles replaced with something fitting to theme.

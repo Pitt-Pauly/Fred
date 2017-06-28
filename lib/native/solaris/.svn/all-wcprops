@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/fred~svc/!svn/ver/19/trunk/lib/native/solaris
+END
+libopenal.so
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/fred~svc/!svn/ver/19/trunk/lib/native/solaris/libopenal.so
+END
+liblwjgl.so
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/fred~svc/!svn/ver/19/trunk/lib/native/solaris/liblwjgl.so
+END

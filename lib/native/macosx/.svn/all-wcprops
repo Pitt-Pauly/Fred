@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/fred~svc/!svn/ver/19/trunk/lib/native/macosx
+END
+openal.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/fred~svc/!svn/ver/19/trunk/lib/native/macosx/openal.dylib
+END
+liblwjgl.jnilib
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/fred~svc/!svn/ver/19/trunk/lib/native/macosx/liblwjgl.jnilib
+END
+libjinput-osx.jnilib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/fred~svc/!svn/ver/19/trunk/lib/native/macosx/libjinput-osx.jnilib
+END

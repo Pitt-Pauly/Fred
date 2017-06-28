@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/fred~svc/!svn/ver/248/trunk/test/java/fred/model
+END
+BattlefieldTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/fred~svc/!svn/ver/245/trunk/test/java/fred/model/BattlefieldTest.java
+END
+CardDeckTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/fred~svc/!svn/ver/183/trunk/test/java/fred/model/CardDeckTest.java
+END
+TerritoryGroupTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/fred~svc/!svn/ver/168/trunk/test/java/fred/model/TerritoryGroupTest.java
+END
+DieTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/fred~svc/!svn/ver/2/trunk/test/java/fred/model/DieTest.java
+END
+TestDie.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/fred~svc/!svn/ver/97/trunk/test/java/fred/model/TestDie.java
+END
+BasicTerritoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/fred~svc/!svn/ver/168/trunk/test/java/fred/model/BasicTerritoryTest.java
+END
+WorldTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/fred~svc/!svn/ver/227/trunk/test/java/fred/model/WorldTest.java
+END
+CardTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/fred~svc/!svn/ver/163/trunk/test/java/fred/model/CardTest.java
+END
+AdvancedTerritoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/fred~svc/!svn/ver/245/trunk/test/java/fred/model/AdvancedTerritoryTest.java
+END
+BasicGameTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/fred~svc/!svn/ver/248/trunk/test/java/fred/model/BasicGameTest.java
+END
+BasicPlayerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/fred~svc/!svn/ver/168/trunk/test/java/fred/model/BasicPlayerTest.java
+END

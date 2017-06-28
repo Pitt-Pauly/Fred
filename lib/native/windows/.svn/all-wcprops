@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/fred~svc/!svn/ver/19/trunk/lib/native/windows
+END
+OpenAL64.dll
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/fred~svc/!svn/ver/19/trunk/lib/native/windows/OpenAL64.dll
+END
+lwjgl64.dll
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/fred~svc/!svn/ver/19/trunk/lib/native/windows/lwjgl64.dll
+END
+jinput-dx8.dll
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/fred~svc/!svn/ver/19/trunk/lib/native/windows/jinput-dx8.dll
+END
+lwjgl.dll
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/fred~svc/!svn/ver/19/trunk/lib/native/windows/lwjgl.dll
+END
+jinput-raw.dll
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/fred~svc/!svn/ver/19/trunk/lib/native/windows/jinput-raw.dll
+END
+OpenAL32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/fred~svc/!svn/ver/19/trunk/lib/native/windows/OpenAL32.dll
+END

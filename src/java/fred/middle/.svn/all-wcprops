@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/fred~svc/!svn/ver/248/trunk/src/java/fred/middle
+END
+Wrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/fred~svc/!svn/ver/248/trunk/src/java/fred/middle/Wrapper.java
+END
+MoveAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/fred~svc/!svn/ver/220/trunk/src/java/fred/middle/MoveAction.java
+END
+AttackAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/fred~svc/!svn/ver/248/trunk/src/java/fred/middle/AttackAction.java
+END
+EndPhaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/fred~svc/!svn/ver/220/trunk/src/java/fred/middle/EndPhaseAction.java
+END
+ChooseTurnTypeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/fred~svc/!svn/ver/220/trunk/src/java/fred/middle/ChooseTurnTypeAction.java
+END
+DeployAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/fred~svc/!svn/ver/220/trunk/src/java/fred/middle/DeployAction.java
+END
+Replay.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/fred~svc/!svn/ver/149/trunk/src/java/fred/middle/Replay.java
+END
+Action.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/fred~svc/!svn/ver/142/trunk/src/java/fred/middle/Action.java
+END
+ExchangeCardsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/fred~svc/!svn/ver/220/trunk/src/java/fred/middle/ExchangeCardsAction.java
+END
+Middle.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/fred~svc/!svn/ver/232/trunk/src/java/fred/middle/Middle.java
+END
